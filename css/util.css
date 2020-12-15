@@ -1,0 +1,39 @@
+#rcorners{
+    border-radius: 25px;
+    border: 2px solid #080808; 
+    width: 150px;
+    height: 30px;  
+  }
+  p {
+    display: block;
+    font-size:smaller;
+  }
+  .greenpts{
+      font-size:200%;
+      color: green;
+      font-weight: bold;
+  }
+  .carbonpts{
+    font-size:200%;
+    color: rgb(63, 68, 63);
+    font-weight: bold;
+}
+.header
+{
+    font-size:150%;
+    color: black;
+    font-weight: bold; 
+    margin-top: 1rem;
+}
+.container ul {
+    list-style: none; 
+  }
+  
+.container ul li::before {
+    content: "\2022"; 
+    color: green; 
+    font-weight: bold; 
+    width: 2em; 
+    margin-left: -1em; 
+    font-size: 250%;
+  }
