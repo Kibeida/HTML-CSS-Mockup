@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Notification Copy</title>
+    <g id="Icon/Notification-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M24,18 C24.5522847,18 25,18.4477153 25,19 C25,19.5522847 24.5522847,20 24,20 L12,20 C11.4477153,20 11,19.5522847 11,19 C11,18.4477153 11.4477153,18 12,18 L24,18 Z M24,13 C24.5522847,13 25,13.4477153 25,14 C25,14.5522847 24.5522847,15 24,15 L6,15 C5.44771525,15 5,14.5522847 5,14 C5,13.4477153 5.44771525,13 6,13 L24,13 Z" id="Combined-Shape" fill="#000000"></path>
+        <g id="UI/Notification" transform="translate(19.000000, 10.000000)">
+            <circle id="Border" fill="#FFFFFF" cx="4" cy="4" r="4"></circle>
+            <circle id="Color" fill="#FF6363" cx="4" cy="4" r="2.66666667"></circle>
+        </g>
+    </g>
+</svg>
